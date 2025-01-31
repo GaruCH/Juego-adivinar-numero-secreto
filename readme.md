@@ -44,7 +44,8 @@ Este es un sencillo juego desarrollado con **JavaScript, HTML5 y CSS**, donde el
 
 ## 📸 Capturas de Pantalla
 
-
+![Captura de pantalla 1](/img/numero_secreto_v1.png)
+*Prueba de funcionalidad de la pagina web*
 
 ## 📄 Licencia
 
